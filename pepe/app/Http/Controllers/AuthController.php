@@ -10,6 +10,6 @@ class AuthController extends Controller
     use ApiResponses;
 
     public function login(){
-        return $this->yes('fds');
+        return $this->yes('LO HICE IJO DE PUTA, FUNCIONA');
     }
 }
